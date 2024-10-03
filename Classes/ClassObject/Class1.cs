@@ -71,7 +71,7 @@ namespace ClassObject
         public void DataDisplay()
         {
             Console.WriteLine($"\nName: {this.name}\nAge: {this.age}\nPhone: {this.phone}\nAddress: {this.address}");
-        }
+        }   
 
     }
 }
