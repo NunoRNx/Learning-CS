@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nuno\\.nuget\\packages\\": {},
+    "C:\\Users\\epere\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\ClassObject.csproj",
+      "projectUniqueName": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\ClassObject.csproj",
       "projectName": "ClassObject",
-      "projectPath": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\ClassObject.csproj",
-      "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\obj\\",
+      "projectPath": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\ClassObject.csproj",
+      "packagesPath": "C:\\Users\\epere\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nuno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\epere\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

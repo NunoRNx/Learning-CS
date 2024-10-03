@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\",
+  "WorkspaceRootPath": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|c:\\users\\nuno\\source\\repos\\classobject\\classobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|solutionrelative:classobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|c:\\users\\epere\\onedrive\\documentos\\github\\learning-cs\\classes\\classobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|solutionrelative:classobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|c:\\users\\nuno\\source\\repos\\classobject\\classobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|solutionrelative:classobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|c:\\users\\epere\\onedrive\\documentos\\github\\learning-cs\\classes\\classobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1B840D-2F9B-433B-A792-9EB3054E089C}|ClassObject\\ClassObject.csproj|solutionrelative:classobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\Class1.cs",
               "RelativeDocumentMoniker": "ClassObject\\Class1.cs",
-              "ToolTip": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\Class1.cs",
+              "ToolTip": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\Class1.cs",
               "RelativeToolTip": "ClassObject\\Class1.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA7wDsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T10:53:58.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T10:53:58.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\Program.cs",
               "RelativeDocumentMoniker": "ClassObject\\Program.cs",
-              "ToolTip": "C:\\Users\\Nuno\\source\\repos\\ClassObject\\ClassObject\\Program.cs",
+              "ToolTip": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\Classes\\ClassObject\\Program.cs",
               "RelativeToolTip": "ClassObject\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T10:53:45.659Z",
               "EditorCaption": ""

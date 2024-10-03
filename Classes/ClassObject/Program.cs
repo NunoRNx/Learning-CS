@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            int age, phone, verf=0;
+            int age, phone;
             string? name, add, input;
             Pessoa pessoa=null;
             Console.Write("Name: ");
@@ -46,7 +46,7 @@
                     Console.WriteLine("Invalid age.");
                 }
             }
-            if (pessoa != null)
+            if (pessoa.name != null)
             {
                 pessoa.DataDisplay();
             }
