@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e38f1c709e28fb670a88f0c993c5e1257617d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0345059dca1c9705c0fce29a8cb2602ce6f0ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

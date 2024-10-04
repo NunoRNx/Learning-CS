@@ -33,15 +33,25 @@ namespace SuperClass
                 this.courseYear = courseYear;
                 this.gradesAverege = averege;
             }
+            public void display()
+            {
+                Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}\nID: {this.studentID}\nCourse: {this.course}\nYear: {this.courseYear}\nAverege: {this.gradesAverege}");
+            }
         }
         public class Prof : Pessoas
         {
             private int profID { get; set; }
             private string tCourse { get; set; }
-            public Prof(string name, string address, int age,int id, string course):base(name,address,age)
+            private string chair { get; set; }
+            public Prof(string name, string address, int age,int id, string course, string chair):base(name,address,age)
             {
                 this.profID = id;
                 this.tCourse = course;
+                this.chair = chair;
+            }
+            public void display()
+            {
+                Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}\nID: {this.profID}\nCourse: {this.tCourse}\nChair: {this.chair}");
             }
         }
         public class Funcionario : Pessoas
@@ -56,7 +66,7 @@ namespace SuperClass
                 this.department = department;
                 this.role = role;
             }
-            public void displayFunc()
+            public void display()
             {
                 Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}\nID funcionario: {this.workerID}\nDepartamento: {this.department}\nCargo: {this.role}");
             }
