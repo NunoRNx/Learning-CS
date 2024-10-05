@@ -1,0 +1,15 @@
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\bin\Debug\net8.0\EuroKey.exe
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\bin\Debug\net8.0\EuroKey.deps.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\bin\Debug\net8.0\EuroKey.runtimeconfig.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\bin\Debug\net8.0\EuroKey.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\bin\Debug\net8.0\EuroKey.pdb
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.AssemblyInfoInputs.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.AssemblyInfo.cs
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.csproj.CoreCompileInputs.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.sourcelink.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\refint\EuroKey.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.pdb
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\EuroKey.genruntimeconfig.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\EuroKey\EuroKey\EuroKey\obj\Debug\net8.0\ref\EuroKey.dll
