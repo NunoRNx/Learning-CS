@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A753FA-0657-4E33-8288-52138957EAD5}|EuroKey\\EuroKey.csproj|c:\\users\\nuno\\onedrive\\documentos\\github\\learning-cs\\eurokey\\eurokey\\eurokey\\chaveeuro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A753FA-0657-4E33-8288-52138957EAD5}|EuroKey\\EuroKey.csproj|solutionrelative:eurokey\\chaveeuro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chaveEuro.cs",
+              "DocumentMoniker": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\chaveEuro.cs",
+              "RelativeDocumentMoniker": "EuroKey\\chaveEuro.cs",
+              "ToolTip": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\chaveEuro.cs",
+              "RelativeToolTip": "EuroKey\\chaveEuro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:14:33.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
