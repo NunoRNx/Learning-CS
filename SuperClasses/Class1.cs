@@ -18,7 +18,10 @@ namespace SuperClass
             this.address = address;
             this.age = age;
         }
-
+        public void Display()
+        {
+            Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}");
+        }
         public class Aluno : Pessoas
         {
             private int studentID { get; set; }
@@ -33,9 +36,10 @@ namespace SuperClass
                 this.courseYear = courseYear;
                 this.gradesAverege = averege;
             }
-            public void display()
+            public void Display()
             {
-                Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}\nID: {this.studentID}\nCourse: {this.course}\nYear: {this.courseYear}\nAverege: {this.gradesAverege}");
+                base.Display();
+                Console.WriteLine($"ID: {this.studentID}\nCourse: {this.course}\nYear: {this.courseYear}\nAverege: {this.gradesAverege}");
             }
         }
         public class Prof : Pessoas
@@ -49,9 +53,10 @@ namespace SuperClass
                 this.tCourse = course;
                 this.chair = chair;
             }
-            public void display()
+            public void Display()
             {
-                Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}\nID: {this.profID}\nCourse: {this.tCourse}\nChair: {this.chair}");
+                base.Display();
+                Console.WriteLine($"ID: {this.profID}\nCourse: {this.tCourse}\nChair: {this.chair}");
             }
         }
         public class Funcionario : Pessoas
@@ -66,11 +71,11 @@ namespace SuperClass
                 this.department = department;
                 this.role = role;
             }
-            public void display()
+            public void Display()
             {
-                Console.WriteLine($"Nome: {this.name}\nEnd: {this.address}\nIdade: {this.age}\nID funcionario: {this.workerID}\nDepartamento: {this.department}\nCargo: {this.role}");
+                base.Display();
+                Console.WriteLine($"ID funcionario: {this.workerID}\nDepartamento: {this.department}\nCargo: {this.role}");
             }
         }
-
     }
 }

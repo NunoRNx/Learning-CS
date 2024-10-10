@@ -1,0 +1,5 @@
+C:\Users\epere\OneDrive\Documentos\GitHub\Learning-CS\Lesson5\obj\Debug\net8.0\Lesson5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epere\OneDrive\Documentos\GitHub\Learning-CS\Lesson5\obj\Debug\net8.0\Lesson5.AssemblyInfoInputs.cache
+C:\Users\epere\OneDrive\Documentos\GitHub\Learning-CS\Lesson5\obj\Debug\net8.0\Lesson5.AssemblyInfo.cs
+C:\Users\epere\OneDrive\Documentos\GitHub\Learning-CS\Lesson5\obj\Debug\net8.0\Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\epere\OneDrive\Documentos\GitHub\Learning-CS\Lesson5\obj\Debug\net8.0\Lesson5.sourcelink.json

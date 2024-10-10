@@ -1,12 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\SuperClasses\\SuperClass\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\SuperClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CCDE2-D281-4997-97F9-39B2996CC997}|SuperClass.csproj|c:\\users\\epere\\onedrive\\documentos\\github\\learning-cs\\superclasses\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8CCDE2-D281-4997-97F9-39B2996CC997}|SuperClass.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB720739-872F-4ACF-B7E6-16C0D1F7F1C2}|..\\DLL\\DLL.csproj|c:\\users\\epere\\onedrive\\documentos\\github\\learning-cs\\dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8CCDE2-D281-4997-97F9-39B2996CC997}|SuperClass.csproj|c:\\users\\epere\\onedrive\\documentos\\github\\learning-cs\\superclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8CCDE2-D281-4997-97F9-39B2996CC997}|SuperClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\DLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\DLL\\Class1.cs",
+              "RelativeToolTip": "..\\DLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:30:43.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\SuperClasses\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\SuperClasses\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:07:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\SuperClasses\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\epere\\OneDrive\\Documentos\\GitHub\\Learning-CS\\SuperClasses\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:07:30.024Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
