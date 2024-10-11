@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EuroKey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eec5ecd2db83169fe0482ec130a5b8eda5f0e3b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514f359cc717e8338ee20ab842425310778a2c4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EuroKey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EuroKey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

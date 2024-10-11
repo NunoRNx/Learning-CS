@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\EuroKey.csproj": {}
+    "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\EuroKey.csproj": {
+    "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\EuroKey.csproj",
+        "projectUniqueName": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey.csproj",
         "projectName": "EuroKey",
-        "projectPath": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\EuroKey.csproj",
+        "projectPath": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey.csproj",
         "packagesPath": "C:\\Users\\Nuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\EuroKey\\obj\\",
+        "outputPath": "C:\\Users\\Nuno\\OneDrive\\Documentos\\GitHub\\Learning-CS\\EuroKey\\EuroKey\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

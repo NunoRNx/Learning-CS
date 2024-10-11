@@ -3,3 +3,10 @@
 /SuperClasses/.vs
 /EuroKey/EuroKey/.vs
 /ExDLL/.vs
+/EuroKey/.vs
+/EuroKey/EuroKey/bin
+*.bin
+*.json
+*.cache
+*.json
+*.props
