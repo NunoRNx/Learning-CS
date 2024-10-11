@@ -1,0 +1,12 @@
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\bin\Debug\net8.0\ClassFunctions.deps.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\bin\Debug\net8.0\ClassFunctions.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\bin\Debug\net8.0\ClassFunctions.pdb
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.AssemblyInfoInputs.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.AssemblyInfo.cs
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.sourcelink.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\refint\ClassFunctions.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ClassFunctions.pdb
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ref\ClassFunctions.dll

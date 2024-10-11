@@ -1,0 +1,12 @@
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\bin\Debug\net8.0\dll.deps.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\bin\Debug\net8.0\dll.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\bin\Debug\net8.0\dll.pdb
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.AssemblyInfoInputs.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.AssemblyInfo.cs
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.csproj.CoreCompileInputs.cache
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.sourcelink.json
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\refint\dll.dll
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\dll.pdb
+C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\obj\Debug\net8.0\ref\dll.dll
