@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClassFunctions
-build_property.ProjectDir = C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\ExDLL\
+build_property.ProjectDir = C:\Users\Nuno\OneDrive\Documentos\GitHub\Learning-CS\Library_dll\ExDLL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
