@@ -10,3 +10,4 @@
 *.cache
 *.json
 *.props
+Library_dll/.vs/
