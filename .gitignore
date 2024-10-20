@@ -11,3 +11,8 @@
 *.json
 *.props
 Library_dll/.vs/
+/RPG/.vs
+/Library_dll/ExDLL/.vs
+/Library_dll/ExDLL/.vs
+/Library_dll/ExDLL/.vs
+/RPG/RPG/obj/Debug
