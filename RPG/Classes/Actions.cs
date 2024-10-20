@@ -1,12 +1,18 @@
-﻿namespace Classes
+﻿namespace RPG
 {
     public class Actions
     {
+        /// <summary>
+        /// Action menu, all options a player can make witht the current character
+        /// </summary>
+        /// <param name="player"></param>
+        /// <param name="enemyTeam"></param>
         public static void actions(Class player, Class[] enemyTeam)
         {
             int action = 0;
             do
             {
+                Console.WriteLine("Character: "+player.name);
                 Console.WriteLine("1-Basic Attack");
                 Console.WriteLine("2-Special Attack");
                 Console.WriteLine("3-Block");
@@ -46,7 +52,7 @@
         {
             Console.Write("Charcter: ");
             string? name = Console.ReadLine();
-            int j = -1;
+            int j;
             for (int i = 0; i < team.Length; i++)
             {
                 if (name.ToLower() == team[i].name.ToLower())
@@ -55,7 +61,7 @@
                     break;
                 }
             }
-            return j;
+            return -1;
         }
         /// <summary>
         /// Dice roll from minimum to maximum to affect the action of a player
@@ -197,6 +203,7 @@
                 }
             }
         }*/
+
         public static void displayTeam(Class[] team)
         {
             for (int i = 0; i < team.Length; i++)
@@ -212,27 +219,27 @@
                     Console.WriteLine("Stamina: " + team[i].stamina);
                     Console.WriteLine("Magic: " + team[i].magic);
                     Console.WriteLine("Status: alive" );
-                    if (team[i] is Class.Warrior warrior)
+                    if (team[i] is Warrior warrior)
                     {
                         Console.WriteLine($"Rage: {warrior.rage}/{warrior.cost}");
                     }
-                    if (team[i] is Class.Paladin paladin)
+                    if (team[i] is Paladin paladin)
                     {
                         Console.WriteLine($"Holy: {paladin.holy}/{paladin.cost}");
                     }
-                    if (team[i] is Class.Swordsman sword)
+                    if (team[i] is Swordsman sword)
                     {
                         Console.WriteLine($"Focus: {sword.focus}/{sword.cost}");
                     }
-                    if (team[i] is Class.Assassin assassin)
+                    if (team[i] is Assassin assassin)
                     {
                         Console.WriteLine($"Stealth: {assassin.stealth}/{assassin.cost}");
                     }
-                    if (team[i] is Class.Archer archer)
+                    if (team[i] is Archer archer)
                     {
                         Console.WriteLine($"Arrows: {archer.arrows}/{archer.cost}");
                     }
-                    if (team[i] is Class.Mage mage)
+                    if (team[i] is Mage mage)
                     {
                         Console.WriteLine($"Mana: {mage.mana}/{mage.cost}");
                     }
