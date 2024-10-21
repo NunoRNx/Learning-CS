@@ -21,12 +21,17 @@
                 get { return this.Rage; }
                 set { this.Rage = value; }
             }
-            public override int attack(int roll)
+            public override int attack()
             {
                 //attack damage for each class
                 return 0;
             }
-        }
+            public override int special()
+            {
+                //attack damage for each class
+                return 0;
+            }
+    }
         public class Paladin: Class
         {
             private int Holy { get; set; }
@@ -42,7 +47,12 @@
                 get { return this.Holy; }
                 set { this.Holy = value; }
             }
-            public override int attack(int roll)
+            public override int attack()
+            {
+                //attack damage for each class
+                return 0;
+            }
+            public override int special()
             {
                 //attack damage for each class
                 return 0;
@@ -66,7 +76,12 @@
                 get { return this.Focus; }
                 set { this.Focus = value; }
             }
-            public override int attack(int roll)
+            public override int attack()
+            {
+                //attack damage for each class
+                return 0;
+            }
+            public override int special()
             {
                 //attack damage for each class
                 return 0;
@@ -87,7 +102,12 @@
                 get { return this.Stealth; }
                 set { this.Stealth = value; }
             }
-            public override int attack(int roll)
+            public override int attack()
+            {
+                //attack damage for each class
+                return 0;
+            }
+            public override int special()
             {
                 //attack damage for each class
                 return 0;
@@ -111,7 +131,12 @@
                 get { return this.Arrows; }
                 set { this.Arrows = value; }
             }
-            public override int attack(int roll)
+            public override int attack()
+            {
+                //attack damage for each class
+                return 0;
+            }
+            public override int special()
             {
                 //attack damage for each class
                 return 0;
@@ -132,7 +157,12 @@
                 get { return this.Mana; }
                 set { this.Mana = value; }
             }
-            public override int attack(int roll)
+            public override int attack()
+            {
+                //attack damage for each class
+                return 0;
+            }
+            public override int special()
             {
                 //attack damage for each class
                 return 0;

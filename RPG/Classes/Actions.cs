@@ -35,7 +35,7 @@
                         }
                     } while (i != -1);
 
-                    int damage = player.attack(diceRoll(1, 21));
+                    int damage = player.attack();
                     inflict(damage, enemyTeam[i]);
                     break;
                 case 2:

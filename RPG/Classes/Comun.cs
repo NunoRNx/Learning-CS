@@ -107,7 +107,8 @@
         #endregion
 
         #region abstraction
-        public abstract int attack(int roll);
+        public abstract int attack();
+        public abstract int special();
         #endregion
     }
 }
